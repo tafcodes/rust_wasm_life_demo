@@ -1,5 +1,7 @@
 # rust_wasm_life_demo
-Quick project to learn how to target WebAssembly from Rust
+Quick project to learn how to target WebAssembly from Rust.
+
+This uses the tools and templates provided by the `rustwasm` group, which are great but maybe abstracting away some stuff that I wanted to learn about.  I may make my own minimal template for doing rust/wasm/canvas apps without node dependencies.
 
 ## Setup
 There's a few ways to do this... 
